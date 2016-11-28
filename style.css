@@ -1,0 +1,47 @@
+body {
+	background-color: #e0e0e0;
+}
+
+.button {
+  color: #900;
+  font-weight: bold;
+  color: #FFF;
+  background-color: black;
+  height: 40px;
+  font-weight: bold;
+  font-size: 14;
+  border: none;
+  margin: 0px;
+}
+
+.button:hover {
+  color: #FFF;
+  background: #df5b57;
+  cursor: pointer;
+}
+
+
+#myNumber {
+	font-size: 16px;
+	font-family: helvetica;
+	font-weight: 800;
+	height: 40px;
+	color: black;
+	margin-left: 70px;
+	border: none;
+	padding: 10px;
+	margin-top: 10px;
+	background-color: #e0e0e0;
+}
+
+#content {
+	width: 904px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 20px;
+}
+
+.square {
+	fill: #df5b57;
+}
+
